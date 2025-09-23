@@ -1,0 +1,27 @@
+leftnav:
+- identifier: e5eb5fe7-de28-e66c-f6ea-f097741ff6d0
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 7ecf9d4c-489c-c336-4fa7-80deea62f42f
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 0bd0a439-5895-e4ad-bf71-c892d4c49de4
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 9caeb86d-eb09-fbb6-4a82-c03df058ae9a
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: 9ac1d2e7-2c0c-7606-c5bd-e4ac399a9537
+  name: 'Assignment 1: Urban Change'
+  pageRef: /pages/assignments/assignment-1
+  parent: 9caeb86d-eb09-fbb6-4a82-c03df058ae9a
+  weight: 50
+- identifier: a6c1fa0f-d417-7efe-e116-9e23b1fb7c57
+  name: 'Assignment 2: Urban Plans'
+  pageRef: /pages/assignments/assignment-2-urban-plans
+  parent: 9caeb86d-eb09-fbb6-4a82-c03df058ae9a
+  weight: 60
