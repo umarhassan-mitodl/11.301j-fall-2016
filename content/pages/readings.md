@@ -22,11 +22,11 @@ Introduction
 
 Robert Fishman. "The Open and the Enclosed: Shifting Paradigms in Modern Urban Design" in Banerjee, Tridib, and Anastasia Loukaitou-Sideris, eds. *Companion to Urban Design*. Routledge, 2011. ISBN: 9781138776548.
 
-Ratti, Carlo, and Anthony Townsend. "[The Social Nexus](http://senseable.mit.edu/papers/pdf/20110901_Ratti_Townsend_SocialNexus_ScientificAmerican.pdf)."*Scientific American* 305, no. 3 (2011): 42-48.
+Ratti, Carlo, and Anthony Townsend. "{{% resource_link "2144c60f-28e3-4c9b-b975-7b83a763d159" "The Social Nexus" %}}."*Scientific American* 305, no. 3 (2011): 42-48.
 
 **Optional**
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262135009) "City and Modernism", "Notes on Urban Space", and "Space, Territory, and Perception" in Maki, Fumihiko, Mark Mulligan, and Eduard F. Sekler. *Nurturing Dreams: Collected Essays on Architecture and the City*. MIT Press, 2012. ISBN: 9780262135009.
+{{% resource_link "e9cc957e-ee26-42c1-9965-c57366197a3a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} "City and Modernism", "Notes on Urban Space", and "Space, Territory, and Perception" in Maki, Fumihiko, Mark Mulligan, and Eduard F. Sekler. *Nurturing Dreams: Collected Essays on Architecture and the City*. MIT Press, 2012. ISBN: 9780262135009.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 ***Part 1: Forces That Shape Cities***
@@ -38,7 +38,7 @@ Viewpoints on the City
 
 "Introduction, Word Game, Fixes" in Clay, Grady. *Close-Up: How to Read the American City*. University of Chicago Press, 1980. ISBN: 9780226109459.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262120043) "City Image and Its Elements" in Lynch, Kevin. *The Image of the City*. Vol. 11. MIT Press, 1960. ISBN: 9780262120043.
+{{% resource_link "6524cad8-2932-4538-bdd2-38670d02e572" "![Buy at MIT Press](/images/mp_logo.gif)" %}} "City Image and Its Elements" in Lynch, Kevin. *The Image of the City*. Vol. 11. MIT Press, 1960. ISBN: 9780262120043.
 
 Koch, Regan, and Alan Latham. "Presenting and Imagining the City" in Paddison, Ronan, and Eugene McCann, eds. *Cities and Social Change: Encounters with Contemporary Urbanism*. Sage, 2014. ISBN: 9781848601109.
 
@@ -48,7 +48,7 @@ Koch, Regan, and Alan Latham. "Presenting and Imagining the City" in Paddison, R
 The Forces That Made Boston
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262620468) "Form Values in Urban History" in Lynch, Kevin. *Good City Form*. MIT Press, 1984. ISBN: 9780262620468.
+{{% resource_link "f2cfe689-2230-48c7-a5fa-18c4e58e9aea" "![Buy at MIT Press](/images/mp_logo.gif)" %}} "Form Values in Urban History" in Lynch, Kevin. *Good City Form*. MIT Press, 1984. ISBN: 9780262620468.
 
 The following are general references for this lecture and for Assignment 1. You should study these to help select and research your site:
 
@@ -56,9 +56,9 @@ Whitehill, Walter Muir. *Boston: A Topographical History*. Belknap Press, 2000. 
 
 Campbell, Robert, and Peter Vanderwarker. *Cityscapes of Boston: An American City Through Time*. Houghton Mifflin, 1992. ISBN: 9780395581193.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262194945) Seasholes, Nancy S. *Gaining Ground: A History of Landmaking in Boston*. MIT Press, 2003. ISBN: 9780262194945.
+{{% resource_link "e04226cc-a58a-4543-88d1-75a3d8f6cf6e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Seasholes, Nancy S. *Gaining Ground: A History of Landmaking in Boston*. MIT Press, 2003. ISBN: 9780262194945.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262083072) Haglund, Karl. *Inventing the Charles River*. MIT Press, 2003. ISBN: 9780262083072.
+{{% resource_link "f0a84a06-26ca-4ab1-a461-92574fbd5639" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Haglund, Karl. *Inventing the Charles River*. MIT Press, 2003. ISBN: 9780262083072.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -84,7 +84,7 @@ Sherman, Roger. "Counting on Change: Property" in Varnelis, Kazys, ed. *The Infr
 Social Forces and Urban Form
 {{< tdclose >}}{{< tdopen >}}
 
-Lipman, Mark and Leah Mahon. [*Holding Ground: The Rebirth of Dudley Street*](https://www.newday.com/film/holding-ground-rebirth-dudley-street). New Day Films, 1996.
+Lipman, Mark and Leah Mahon. {{% resource_link "7ede38b9-0bcf-4d45-8cc8-b60a321598ee" "*Holding Ground: The Rebirth of Dudley Street*" %}}. New Day Films, 1996.
 
 "The Uses of City Neighborhoods" in Jacobs, Jane. *The Death and Life of Great American Cities*. Vintage, 2016. ISBN: 9780679741954.
 
@@ -116,17 +116,17 @@ City Making I: Planning the Formal City
 
 "Designing Cities Without Designing Buildings" in Barnett, Jonathan. *An Introduction to Urban Design*. HarperCollins, 1982. ISBN: 9780064301145.
 
-Muschamp, Herbert. "[Reaching For Power Over Streets And Sky](http://www.nytimes.com/2000/05/14/arts/art-architecture-reaching-for-power-over-streets-and-sky.html)." *The New York Times*. May 14, 2000.
+Muschamp, Herbert. "{{% resource_link "15884823-51cd-4dbc-8ed9-9f8cda41b6fc" "Reaching For Power Over Streets And Sky" %}}." *The New York Times*. May 14, 2000.
 
-Neuman, Michael. "[Does Planning Need the Plan?](https://doi.org/10.1080/01944369808975976)" *Journal of the American Planning Association* 64, no. 2 (1998): 208-220.
+Neuman, Michael. "{{% resource_link "2c9bbdcf-1fde-45a6-b9ed-1ae3a29f96c0" "Does Planning Need the Plan?" %}}" *Journal of the American Planning Association* 64, no. 2 (1998): 208-220.
 
 **Optional**
 
-Biderman, Ciro, Paulo Sandroni, and Martim O. Smolka. "[Large-Scale Urban Interventions: The Case of Faria Lima in Sao Paulo](http://www.lincolninst.edu/publications/articles/large-scale-urban-interventions)." *Land Lines*. Lincoln Institute of Land Policy: April 2006.
+Biderman, Ciro, Paulo Sandroni, and Martim O. Smolka. "{{% resource_link "6f15bb79-0cce-4490-b95d-86fe4b78af38" "Large-Scale Urban Interventions: The Case of Faria Lima in Sao Paulo" %}}." *Land Lines*. Lincoln Institute of Land Policy: April 2006.
 
-Sandroni, Paul. "[Socially Sustainable Urban Development: The Case of Sao Paulo](http://sandroni.com.br/?page_id=321)." Blog post, 2010.
+Sandroni, Paul. "{{% resource_link "aac58d65-5c29-4454-b046-e640d3349bf2" "Socially Sustainable Urban Development: The Case of Sao Paulo" %}}." Blog post, 2010.
 
-\-- --. "[Urban Development, Increasing Land Prices and Instruments to Avoid Exclusion in Sao Paulo, Brazil](http://sandroni.com.br/?page_id=559)." Blog post, n.d.
+\-- --. "{{% resource_link "5472b191-8da5-40d1-a3ee-cc1c1dd6de79" "Urban Development, Increasing Land Prices and Instruments to Avoid Exclusion in Sao Paulo, Brazil" %}}." Blog post, n.d.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -140,11 +140,11 @@ No readings
 City Making II: Non-Planning the Informal City
 {{< tdclose >}}{{< tdopen >}}
 
-Roy, Ananya. "[Urban Informality: Toward an Epistemology of Planning](https://doi.org/10.1080/01944360508976689)." *Journal of the American Planning Association* 71, no. 2 (2005): 147-158.
+Roy, Ananya. "{{% resource_link "cf4d5131-805f-4424-9d6c-81d02d0d6c40" "Urban Informality: Toward an Epistemology of Planning" %}}." *Journal of the American Planning Association* 71, no. 2 (2005): 147-158.
 
 Pages 1-20 in Davis, Mike. *Planet of Slums*. Verso, 2007.
 
-Blanco, Carolina, and Hidetsugu Kobayashi. "[Urban Transformation in Slum Districts Through Public Space Generation and Cable Transportation at Northeastern Area: Medellin, Colombia](https://www.researchgate.net/publication/26628194_URBAN_TRANSFORMATION_IN_SLUM_DISTRICTS_THROUGH_PUBLIC_SPACE_GENERATION_AND_CABLE_TRANSPORTATION_AT_NORTHEASTERN_AREA_MEDELLIN_COLOMBIA)." *Journal of International Social Research*. 2009.
+Blanco, Carolina, and Hidetsugu Kobayashi. "{{% resource_link "d1dd78fe-0a6c-4f2e-aef3-d13ba6d30146" "Urban Transformation in Slum Districts Through Public Space Generation and Cable Transportation at Northeastern Area: Medellin, Colombia" %}}." *Journal of International Social Research*. 2009.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -152,17 +152,17 @@ Blanco, Carolina, and Hidetsugu Kobayashi. "[Urban Transformation in Slum Distri
 City Making III: Public-Private Partnerships
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262061285) "Entrepreneurial Cities and Maverick Developmers, Deal Making, Getting and Spending" in Frieden, Bernard J., and Lynne B. Sagalyn. *Downtown, Inc: How America Rebuilds Cities*. MIT Press, 1991. ISBN: 9780262061285.
+{{% resource_link "c1aff2b5-19fc-44e8-82e8-dc108aeded4b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} "Entrepreneurial Cities and Maverick Developmers, Deal Making, Getting and Spending" in Frieden, Bernard J., and Lynne B. Sagalyn. *Downtown, Inc: How America Rebuilds Cities*. MIT Press, 1991. ISBN: 9780262061285.
 
 Beasley, Larry. "Living First in Downtown Vancouver." *APA Zoning News*, April 2000.
 
-City of Vancouver. "[Home, Property, and Development](http://vancouver.ca/home-property-development.aspx)." 2017. (Skim website)
+City of Vancouver. "{{% resource_link "988346ec-f5f6-470b-8cdb-7e21b6a0c906" "Home, Property, and Development" %}}." 2017. (Skim website)
 
-Berg, Nate. "[The Olympics and The City](https://placesjournal.org/article/the-olympics-and-the-city/)." *Places Journal*, February 2010.
+Berg, Nate. "{{% resource_link "b24c5aec-2c4c-49ff-9376-58f761352554" "The Olympics and The City" %}}." *Places Journal*, February 2010.
 
 **Optional**
 
-Sarkissian, Wendy. "[EcoDensity Policy Undermined Planning In Vancouver](https://cityhallwatch.wordpress.com/2014/01/12/ecodensity-policy-wendy-sarkissian/)." *CityHallWatch*. January 12, 2014.
+Sarkissian, Wendy. "{{% resource_link "6b7ddb9c-0bb4-44c9-a0f6-4bdcee3d0fc7" "EcoDensity Policy Undermined Planning In Vancouver" %}}." *CityHallWatch*. January 12, 2014.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -180,7 +180,7 @@ Campbell, Robert. "After the Big Dig, the Big Question: Where's the Vision?" *Th
 
 \-- --. "A Walk in Progress: A Tour of the (More or Less) Finished Sections of the new Greenway Reveals That Intentions Have Been Met - And Missed." *The Boston Globe*. December 2, 2007.
 
-[Rose Kennedy Greenway](http://www.rosekennedygreenway.org/). Browse website, especially "[About](http://www.rosekennedygreenway.org/about-us/)" and "[Greenway Parks](http://www.rosekennedygreenway.org/about-us/parks/)."
+{{% resource_link "19d2e87c-d653-487e-928c-04e95b56412b" "Rose Kennedy Greenway" %}}. Browse website, especially "{{% resource_link "2cabfa4d-6f43-4eaf-ad6a-358e61a3cd53" "About" %}}" and "{{% resource_link "6cc5b148-8715-4ce3-b725-e253a7c7b5bf" "Greenway Parks" %}}."
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -206,9 +206,9 @@ Kostof, Spiro. *The City Assembled: The Elements of Urban Form Through History*.
 
 The following are general readings for Assignment 2:
 
-Ryan, Brent D. "[Reading Through a Plan: A Visual Interpretation of What Plans Mean and How They Innovate](https://doi.org/10.1080/01944363.2011.616995)." *Journal of the American Planning Association* 77(4), 309-327.
+Ryan, Brent D. "{{% resource_link "60c6c342-a4ff-4b17-abb1-3d50a51ab59d" "Reading Through a Plan: A Visual Interpretation of What Plans Mean and How They Innovate" %}}." *Journal of the American Planning Association* 77(4), 309-327.
 
-Baer, William C. "[General Plan Evaluation Criteria: An Approach to Making Better Plans](https://doi.org/10.1080/01944369708975926)." *Journal of the American Planning Association* 63, no. 3 (1997): 329-344.
+Baer, William C. "{{% resource_link "75f4adaa-34cb-4fe9-861b-c8b4185d27bd" "General Plan Evaluation Criteria: An Approach to Making Better Plans" %}}." *Journal of the American Planning Association* 63, no. 3 (1997): 329-344.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
@@ -218,7 +218,7 @@ Tradition
 
 "New Towns in New England" and "Carolina and Georgia" in Reps, John William. *Town Planning in Frontier America*. University of Missouri Press, 1980. ISBN: 9780826203168.
 
-Kunstler, James Howard. "[Home From Nowhere](https://www.theatlantic.com/magazine/archive/1996/09/home-from-nowhere/376664/)." *The Atlantic*. September 1996.
+Kunstler, James Howard. "{{% resource_link "9f6043be-157e-45fb-b593-abe32d936c29" "Home From Nowhere" %}}." *The Atlantic*. September 1996.
 
 "Master Plan for Poundbury Development in Dorchester" in Martin, Christopher. *Prince Charles and the Architectural Debate*. St. Martin's Press, 1990. ISBN: 9780312040482.
 
@@ -234,26 +234,26 @@ Sitte, Camillo, George Roseborough Collins, and Christiane Crasemann Collins. *C
 
 "The Monumental City" in Barnett, Jonathan. *The Elusive City: Five Centuries of Design, Ambition and Miscalculation*. HarperCollins, 1986. ISBN: 9780064301558.
 
-Read: Executive Summary and Introduction in Markusen, Ann, and Anne Gadwa. [*Creative Placemaking*](https://www.arts.gov/sites/default/files/CreativePlacemaking-Paper.pdf) National Endowment for the Arts, 2010.
+Read: Executive Summary and Introduction in Markusen, Ann, and Anne Gadwa. {{% resource_link "7995502c-8bca-46a2-b2fc-f6f8ad7c8d1c" "*Creative Placemaking*" %}} National Endowment for the Arts, 2010.
 
 **Optional**
 
 Supovitz, Marjorie, and Judith Wechler. *Gyorgy Kepes: The MIT Years 1945-1977*. MIT Press Visual Arts Series, 1978. ISBN: 9780262610278.
 
-Bedoya, Robert. "[Placemaking and the Politics of Belonging and Dis-belonging](http://www.giarts.org/article/placemaking-and-politics-belonging-and-dis-belonging)." *Grantmakers in the Arts Reader* 24, no. 1 (Winter 2013).
+Bedoya, Robert. "{{% resource_link "8b397536-c593-452d-ad3e-6b6927a560da" "Placemaking and the Politics of Belonging and Dis-belonging" %}}." *Grantmakers in the Arts Reader* 24, no. 1 (Winter 2013).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
 WaterFire, Walking Tour of Providence
 {{< tdclose >}}{{< tdopen >}}
-Frenchman, Dennis. "[Event-Places in North America: City Meaning and Making](https://placesjournal.org/assets/legacy/pdfs/event-places-in-north-america-city-meaning-and-making.pdf) (PDF-1.6MB)." *Places Journal* 16, no. 3. Fall 2004.
+Frenchman, Dennis. "{{% resource_link "a9fa5644-9673-4dea-80a1-ce99265d281f" "Event-Places in North America: City Meaning and Making" %}} (PDF-1.6MB)." *Places Journal* 16, no. 3. Fall 2004.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
 Case Study: Making a 21st Century Public Realm
 {{< tdclose >}}{{< tdopen >}}
-Review website and descriptions of placemaking: [WaterFire](https://waterfire.org)
+Review website and descriptions of placemaking: {{% resource_link "e220eedc-62af-4e5b-b396-fa449fac6def" "WaterFire" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
@@ -266,9 +266,9 @@ Introduction, Chapter 8 in Mumford, Eric Paul, and Hashim Sarkis, eds. *Josep Ll
 The Efficient City
 {{< tdclose >}}{{< tdopen >}}
 
-Ulfelder, Jay. "[China Isn't Socialist, It's High Modernist](https://dartthrowingchimp.wordpress.com/2014/03/18/china-isnt-socialist-its-high-modernist/)." *Dart-Throwing Chimp*. March 18, 2014.
+Ulfelder, Jay. "{{% resource_link "80e74704-d215-4a70-a44a-e89c6a682b61" "China Isn't Socialist, It's High Modernist" %}}." *Dart-Throwing Chimp*. March 18, 2014.
 
-Johnson, Ian. "[As Beijing Becomes a Supercity, the Rapid Growth Brings Pains](https://www.nytimes.com/2015/07/20/world/asia/in-china-a-supercity-rises-around-beijing.html?_r=0)." *The New York Times*. July 19, 2015.
+Johnson, Ian. "{{% resource_link "06eacbd7-9422-4e84-b97c-9d6b780692a1" "As Beijing Becomes a Supercity, the Rapid Growth Brings Pains" %}}." *The New York Times*. July 19, 2015.
 
 "World of Tomorrow" in Bush, Donald. *The Streamlined Decade*. Braziller, 1975. ISBN: 9780807607930.
 
@@ -280,9 +280,9 @@ Johnson, Ian. "[As Beijing Becomes a Supercity, the Rapid Growth Brings Pains](h
 Case Study: Green Development
 {{< tdclose >}}{{< tdopen >}}
 
-Walker, Jonce. "[Biophilic Urban Acupuncture: The Importance of Biophilia in Urban Places](https://www.terrapinbrightgreen.com/blog/2015/10/biophilic-urban-acupuncture-biophilia-in-urban-places/)." *The Blog*. Terrapin Bright Green. October 21, 2015.
+Walker, Jonce. "{{% resource_link "a5737be8-8726-49f7-82be-b73d420a45e3" "Biophilic Urban Acupuncture: The Importance of Biophilia in Urban Places" %}}." *The Blog*. Terrapin Bright Green. October 21, 2015.
 
-Gochman, Sam. "[Seeking Parks, Plazas, and Spaces: The Allure of Biophilia in Cities](http://www.terrapinbrightgreen.com/wp-content/uploads/2016/06/seeking_parks_plazas_spaces_2MB.pdf) (PDF-2 MB)." Terrapin Bright Green. June 2016.
+Gochman, Sam. "{{% resource_link "7e3abfe3-3968-437b-a65a-0495ba0dc141" "Seeking Parks, Plazas, and Spaces: The Allure of Biophilia in Cities" %}} (PDF-2 MB)." Terrapin Bright Green. June 2016.
 
 Fishman, Robert. "Beyond Sprawl: The New American Metropolis" in Boelling, Lars and Thomas Sieverts, eds. *In the Middle of the Edge: From the Suburb to Sprawl to the Regional City*. Wuppertal, Germany: Mueller and Busmann, 2004.
 
@@ -300,7 +300,7 @@ Spirn, Anne Whiston. "Ecological Urbanism" in Banerjee, Tridib, and Anastasia Lo
 
 **Optional**
 
-Joss, Simon, and Arthur P. Molella. "[The Eco-City as Urban Technology: Perspectives on Caofeidian International Eco-City (China)](https://doi.org/10.1080/10630732.2012.735411)." *Journal of Urban Technology* 20, no. 1 (2013): 115-137.
+Joss, Simon, and Arthur P. Molella. "{{% resource_link "c5da7068-b43c-48ff-86bc-57043b6efc41" "The Eco-City as Urban Technology: Perspectives on Caofeidian International Eco-City (China)" %}}." *Journal of Urban Technology* 20, no. 1 (2013): 115-137.
 
 Girot, Christophe. "Vers une nouvelle nature" in Institute for Landscape Architecture. *Landscape Architecture in Mutation: Essays on Urban Landscape*. GTA Verlag, 2005. ISBN: 9783856761578.
 
@@ -314,13 +314,13 @@ Davis, Michael. "Fortress Los Angeles: The Militarization of Urban Space" in Sor
 
 "Unlocking the Gated Community" in Low, Setha. *Behind the Gates: Life, Security, and the Pursuit of Happiness in Fortress America*. Routledge, 2004. ISBN: 9780415950411.
 
-Graham, Stephen. "[Cities as Battlespace: The New Military Urbanism](https://doi.org/10.1080/13604810903298425)." *City* 13, no. 4 (2009): 383-402.
+Graham, Stephen. "{{% resource_link "127ed272-3a12-4b3e-87c1-dc503ee5c020" "Cities as Battlespace: The New Military Urbanism" %}}." *City* 13, no. 4 (2009): 383-402.
 
 **Optional**
 
 Chapter 5 in Low, Setha, and Neil Smith, eds. *The Politics of Public Space*. Routledge, 2013. 9780415951395.
 
-Cases from Cairo, Oakland, Jerusalem, Lahore, and Beirut in ["Militarized Cities."](https://thefunambulist.net/magazine/01-militarized-cities) *The Funambulist* no. 1. September - November 2015.
+Cases from Cairo, Oakland, Jerusalem, Lahore, and Beirut in {{% resource_link "c8ff841d-fc64-453f-823b-8493a12d05eb" "\"Militarized Cities.\"" %}} *The Funambulist* no. 1. September - November 2015.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 27
@@ -338,7 +338,7 @@ Experience City
 
 Brown, Denise Scott and Robert Venturi. *Architecture as Signs and Systems: For a Mannerist Time*. Belknap, 2004. ISBN: 9780674015715.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262113038) Klingmann, Anna. *Brandscapes: Architecture in the Experience Economy*. MIT Press, 2010. ISBN: 9780262113038.
+{{% resource_link "fd57b009-4d21-494b-a483-474af6b13607" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Klingmann, Anna. *Brandscapes: Architecture in the Experience Economy*. MIT Press, 2010. ISBN: 9780262113038.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 29
@@ -350,20 +350,20 @@ Productive Neighborhoods
 
 Frenchman, Dennis and William J. Mitchell. "The Digital City" in Ratti, Carlo, ed. *Digital Water Pavilion at Zaragoza's Milla Digital and Expo 2008*. Milan: Electa, 2008. ISBN: 9788837064686.
 
-Katz, Bruce, and Julie Wagner. "[The Rise of Innovation Districts: A New Geography of Innovation in America](https://www.brookings.edu/essay/rise-of-innovation-districts/)." Metropolitan Policy Program at Brookings, May (2014).
+Katz, Bruce, and Julie Wagner. "{{% resource_link "c4a99370-d820-4981-8d6a-0b7182e146c9" "The Rise of Innovation Districts: A New Geography of Innovation in America" %}}." Metropolitan Policy Program at Brookings, May (2014).
 
 **Optional**
 
-MIT Senseable City Lab. [*Underworlds*](http://underworlds.mit.edu/).
+MIT Senseable City Lab. {{% resource_link "ea1ae157-2bf1-41bc-a910-8a7a5536077f" "*Underworlds*" %}}.
 
-Davis, Nicola. "[The MIT Lab Flushing Out A City's Secrets](https://www.theguardian.com/science/2016/mar/27/lab-that-flushes-out-city-secrets-massachusetts-mit-senseable-lab-sewage)." *The Guardian*. March 27, 2016.
+Davis, Nicola. "{{% resource_link "449694e8-5e77-47e9-bf38-7ce1a9f22bc0" "The MIT Lab Flushing Out A City's Secrets" %}}." *The Guardian*. March 27, 2016.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 30
 {{< tdclose >}}{{< tdopen >}}
 The Good City
 {{< tdclose >}}{{< tdopen >}}
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262620468) "Between Heaven and Hell" in Lynch, Kevin. *Good City Form*. MIT Press, 1984. ISBN: 9780262620468.
+{{% resource_link "f2cfe689-2230-48c7-a5fa-18c4e58e9aea" "![Buy at MIT Press](/images/mp_logo.gif)" %}} "Between Heaven and Hell" in Lynch, Kevin. *Good City Form*. MIT Press, 1984. ISBN: 9780262620468.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 31
 {{< tdclose >}}{{< tdopen >}}

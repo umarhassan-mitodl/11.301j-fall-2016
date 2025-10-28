@@ -45,7 +45,7 @@ How does a city grow? The city viewed as a process of cultural and physical evol
 
 **Walking Tour of Boston**
 
-Required field trip: Meet at the Prudential Center Observatory lobby. Tour concludes in the [North End](https://en.wikipedia.org/wiki/North_End,_Boston) for lunch.
+Required field trip: Meet at the Prudential Center Observatory lobby. Tour concludes in the {{% resource_link "54f9e172-e85b-4658-b539-cb31254c5f44" "North End" %}} for lunch.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -61,7 +61,7 @@ The city viewed as a business. Land use, land value, and urban development. Unde
 
 **Social Foces and Urban Form**
 
-The city form the viewpoint of communities and their residents. Interrelationships of neighborhoods, class association and form. Public housing, Hope VI, [Dudley Street Neighborhood Initiative](http://www.dsni.org/), Boston.
+The city form the viewpoint of communities and their residents. Interrelationships of neighborhoods, class association and form. Public housing, Hope VI, {{% resource_link "dc171039-edbf-48e0-9a9f-a026a1567627" "Dudley Street Neighborhood Initiative" %}}, Boston.
 
 Identify location for Assignment 1
 
@@ -95,7 +95,7 @@ Land allocation, use, and regulation of private development: zoning and incentiv
 
 **Case Study: Private Development and Public Benefits**
 
-Guest: [Kairos Shen](https://mitcre.mit.edu/kairos-shen), former Planning Director, City of Boston
+Guest: {{% resource_link "108a4349-dbec-4225-acbc-39a2000c9537" "Kairos Shen" %}}, former Planning Director, City of Boston
 
 The city is made largely by individual private development and projects, working within a framework of zonging and other regulations. Are these regulations sufficient to protect the public interest? What additional public benefits can the city expect developers to provide? Examples of projects and controversies in Boston.
 
@@ -105,7 +105,7 @@ The city is made largely by individual private development and projects, working
 
 **City Making II: Non-Planning the Informal City**
 
-Guest: [Dr. Jota Samper](https://www.colorado.edu/envd/jota-samper)
+Guest: {{% resource_link "9ba1df41-1f98-4bc1-ac2e-25086d950882" "Dr. Jota Samper" %}}
 
 Informal settlements amke up one-third of the world's urban population. What is this form of urbanization? How can design affect security and regeneration of these neighborhoods? Examples: Medellin and Rio de Janeiro.
 
@@ -129,9 +129,9 @@ Discussion will focus on the readings. Please submit a journal reflection on the
 14
 {{< tdclose >}}{{< tdopen >}}
 
-**Field Visit:** [**Boston Redevelopment Authority**](http://www.bostonplans.org/)
+**Field Visit:** {{% resource_link "cd58d34d-69de-4e58-8f45-5665de61afbe" "**Boston Redevelopment Authority**" %}}
 
-Host: [*Prataap Patrose*](http://www.bostonplans.org/about-us/staff/staff-detail?id=208)
+Host: {{% resource_link "ece2b934-01d8-4741-85a6-164f1cbc9ec3" "*Prataap Patrose*" %}}
 
 \_
 
@@ -187,9 +187,9 @@ Symbolic places and form. From Baroque Rome to the Chicago and Worlds Columbian 
 20
 {{< tdclose >}}{{< tdopen >}}
 
-[**WaterFire**](http://waterfire.org/)**, Walking Tour of Providence, R.I.**
+{{% resource_link "8939ed63-f6df-42f2-834e-afff35c9ff8f" "**WaterFire**" %}}**, Walking Tour of Providence, R.I.**
 
-Host: [*Barnaby Evans*](http://waterfire.org/about/barnaby-evans-artist/)*, artist, creator, and producer of WaterFire.*
+Host: {{% resource_link "8401f310-766c-4f2c-9a84-67d7c9828779" "*Barnaby Evans*" %}}*, artist, creator, and producer of WaterFire.*
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
@@ -205,7 +205,7 @@ Guest: Barnaby Evans, artist, creator, and producer of WaterFire
 
 **Case Study: Mid-Century Modern City**
 
-Guest: [Professor Hashim Sarkis](https://sap.mit.edu/dean-hashim-sarkis), Dean of the School of Arcitecture and Planning at MIT
+Guest: {{% resource_link "7471c5e4-17a0-4dae-bad2-9b910be120fc" "Professor Hashim Sarkis" %}}, Dean of the School of Arcitecture and Planning at MIT
 
 The architecture of urban design: Set, Neutra, and the ongoing legacy of Latin American urbanism.
 
@@ -223,7 +223,7 @@ The city as a mechanism for production. The utopian industrial city: from Pullma
 
 **Case Study: Green Development**
 
-Guest: [Bill Browning](https://www.terrapinbrightgreen.com/about/bios/), CEO, Terrapin Bright Green
+Guest: {{% resource_link "0b4a7aee-18bc-4496-b0a1-2725c7c59434" "Bill Browning" %}}, CEO, Terrapin Bright Green
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
